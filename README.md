@@ -33,7 +33,7 @@ See 'snap info docker' for additional versions.
 
 [Ссылка на fork-репозиторий](https://github.com/Markin-AI/shvirtd-example-python)
 
-[Dockerfile.python](https://github.com/Markin-AI/shvirtd-example-python/Dockerfile.python)
+[Dockerfile.python](https://github.com/Markin-AI/shvirtd-example-python/blob/main/Dockerfile.python)
 
 ---
 
