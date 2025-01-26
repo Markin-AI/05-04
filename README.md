@@ -104,7 +104,11 @@ See 'snap info docker' for additional versions.
 
 ## Решение 6
 
-![Задание 6](https://github.com/Markin-AI/05-04/blob/main/img/6.png)
+![Задание 6](https://github.com/Markin-AI/05-04/blob/main/img/6-0.png)
+
+![Задание 6](https://github.com/Markin-AI/05-04/blob/main/img/6-1.png)
+
+![Задание 6](https://github.com/Markin-AI/05-04/blob/main/img/6-2.png)
 
 ---
 
@@ -114,6 +118,6 @@ See 'snap info docker' for additional versions.
 
 ## Решение 6.1
 
-![Задание 1](https://github.com/Markin-AI/05-04/blob/main/img/1.png)
+![Задание 1](https://github.com/Markin-AI/05-04/blob/main/img/6-1-1.png)
 
 ---
